@@ -1,8 +1,6 @@
 Testando o GIt
 Alterando arquivo
 Realizando alteração pelo GitHub.
-<<<<<<< HEAD
 Mais um teste
-=======
-teste.
->>>>>>> fbc570786dd5bbeb9c0889f662abbba08570fc21
+
+Arquivo atualizado para teste do clone
