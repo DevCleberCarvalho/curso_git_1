@@ -1,6 +1,0 @@
-Testando o GIt
-Alterando arquivo
-Realizando alteração pelo GitHub.
-Mais um teste
-
-Arquivo atualizado para teste do clone
