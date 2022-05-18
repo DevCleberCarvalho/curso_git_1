@@ -1,0 +1,2 @@
+git checkout -b "branch_teste"
+Cria e muda para a branch criada.
